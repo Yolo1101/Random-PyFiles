@@ -2,8 +2,6 @@ import pyautogui as spam
 import time
 import requests as req
 
-class Spammer:
-
 limit = input("Enter number of messages >")
 msg = input("Message you want to send >")
 
